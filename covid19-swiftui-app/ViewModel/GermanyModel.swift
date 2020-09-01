@@ -2,8 +2,8 @@
 //  GermanyModel.swift
 //  covid19-swiftui-app
 //
-//  Created by BBruch on 01.09.20.
-//  Copyright © 2020 Benjamin Bruch. All rights reserved.
+//  Created by Ron Machoka on 01.09.20.
+//  Copyright © 2020 Ron Machoka. All rights reserved.
 //
 
 import Foundation

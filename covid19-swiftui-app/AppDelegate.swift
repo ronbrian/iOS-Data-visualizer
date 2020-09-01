@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  covid19-swiftui-app
 //
-//  Created by BBruch on 25.08.20.
-//  Copyright © 2020 Benjamin Bruch. All rights reserved.
+//  Created by Ron Machoka on 25.08.20.
+//  Copyright © 2020 Ron Machoka. All rights reserved.
 //
 
 import UIKit

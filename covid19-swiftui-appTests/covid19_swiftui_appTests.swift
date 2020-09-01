@@ -2,8 +2,8 @@
 //  covid19_swiftui_appTests.swift
 //  covid19-swiftui-appTests
 //
-//  Created by BBruch on 25.08.20.
-//  Copyright © 2020 Benjamin Bruch. All rights reserved.
+//  Created by Ron Machoka on 25.08.20.
+//  Copyright © 2020 Ron Machoka. All rights reserved.
 //
 
 import XCTest
