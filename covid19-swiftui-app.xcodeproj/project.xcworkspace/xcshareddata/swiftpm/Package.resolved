@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Covid19SwiftAPI",
+        "repositoryURL": "https://github.com/benjaminbruch/covid19-swift-api.git",
+        "state": {
+          "branch": "master",
+          "revision": "154b0693d9cb8e95f16e8bd4ddfe97b984a7fe47",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
