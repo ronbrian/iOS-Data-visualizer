@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/ron/gitrepos/swift/covid19-swiftui-app/covid19 Daily Cases.xcodeproj">
    </FileRef>
 </Workspace>

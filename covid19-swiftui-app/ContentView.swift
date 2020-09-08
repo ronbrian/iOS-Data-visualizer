@@ -16,9 +16,9 @@ struct ContentView: View {
         TabView {
             WorldLeadingView().tabItem {
                 Text("World Leading") }.tag(1)
-            GermanyView().tabItem {
-                Text("Germany")
-            }.tag(2)
+//            KenyaView().tabItem {
+//                Text("Kenya")
+//            }.tag(2)
         }
     }
 }

@@ -15,7 +15,7 @@ struct WorldLeadingView: View {
     
     
     var body: some View {
-        BarChartView(chartTitle: "Worldwide Cases", barColor: .blue, barChartData: viewModel.barChartData)
+        BarChartView(chartTitle: "Worldwide Cases overview", barColor: .blue, barChartData: viewModel.barChartData)
     }
 }
 

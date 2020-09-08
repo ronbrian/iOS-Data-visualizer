@@ -35,9 +35,11 @@ class WorldLeadingModel: ObservableObject {
     }
 
     private func convertToBarChartData(countries: [Country]) -> BarChartData {
+       
            var dataPoints = [BarChartDataPoint]()
+            
            countries.forEach {
-               dataPoints.append((BarChartDataPoint(valueName: $0.name, valueNumber: CGFloat($0.totalConfirmed))))
+            dataPoints.append((BarChartDataPoint(valueName: $0.name, valueNumber: CGFloat($0.totalConfirmed), actualFigures: $0.totalConfirmed)))
            }
            return BarChartData(barChartDataPoints: dataPoints)
        }

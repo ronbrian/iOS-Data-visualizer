@@ -1,5 +1,5 @@
 //
-//  GermanyView.swift
+//  KenyaView.swift
 //  covid19-swiftui-app
 //
 //  Created by Ron Machoka on 28.08.20.
@@ -15,15 +15,11 @@ struct KenyaView: View {
     @ObservedObject var viewModel = GermanyModel()
 
     var body: some View {
-        
-        
-        
-        Text(" op ")
-        
+        BarChartView(chartTitle: "COVID19 Kenya ", barColor: .blue, barChartData: viewModel.barChartData)
     }
 }
 
-struct GermanyView_Previews: PreviewProvider {
+struct KenyaView_Previews: PreviewProvider {
     static var previews: some View {
         KenyaView()
     }

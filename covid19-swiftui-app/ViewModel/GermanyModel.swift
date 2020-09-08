@@ -32,7 +32,7 @@ class GermanyModel: ObservableObject {
     private func convertToBarChartData(countries: [State]) -> BarChartData {
         var dataPoints = [BarChartDataPoint]()
         countries.forEach {
-            dataPoints.append((BarChartDataPoint(valueName: $0.name, valueNumber: CGFloat($0.count))))
+            dataPoints.append((BarChartDataPoint(valueName: $0.name, valueNumber: CGFloat($0.count), actualFigures: $0.count)))
         }
         return BarChartData(barChartDataPoints: dataPoints)
     }
