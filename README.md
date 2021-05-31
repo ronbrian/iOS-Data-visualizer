@@ -2,7 +2,7 @@
 An iOS App that visualizes realtime covid19 cases using covid19api.com API.
 
 
-![alt text](https://lh3.googleusercontent.com/pw/ACtC-3dmD8KP2E-QVB7f8-hkgNYutnEnNQ-lsvvOtJHCrqOrR1dhm-v9_7MmJQEVGcE4uaXaYrVfFo6TiMx84LWC_OK054BMDJ6E7IaZXAdkwYBiHaQFfqHI9t0sq2HPzqGhuMy3E9IU3h42Dz7B1GjEGi5UUw=w712-h1540-no "Covid19 Results")
+![alt text](https://raw.githubusercontent.com/ronbrian/iOS-Data-visualizer/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-09-08%20at%2022.40.03.png "Covid19 Results")
 
 
 
